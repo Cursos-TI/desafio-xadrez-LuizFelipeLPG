@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-//movimento do bispo na diagonal (uma vez para cima, uma vez para direita) com função recursiva e loop aninhado confome pede no desafio
+//movimento do bispo na diagonal (uma vez para cima, uma vez para direita) com função recursiva e loop aninhado conforme pede no desafio
 
 void movimento_bispo(int movimento){   
 
